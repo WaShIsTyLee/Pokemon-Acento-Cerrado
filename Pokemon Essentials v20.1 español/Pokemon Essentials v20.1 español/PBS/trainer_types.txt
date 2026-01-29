@@ -400,3 +400,9 @@ BaseMoney = 100
 BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
 #-------------------------------
+[CAMARERO]
+Name = Camarero
+Gender = Male
+BaseMoney = 400
+
+
