@@ -117,4 +117,30 @@ Pokemon = CHARIZARD,63
 Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
 #-------------------------------
+[CAMARERO,Juanda]
+LoseText = ¡Se enfriaron los platos mientras luchábamos!
+Pokemon = MINCCINO,14
+    Moves = POUND,CHARM,HELPINGHAND,TAILWHIP
+Pokemon = COMBEE,13
+    Moves = GUST,SWEETSCENT,BUGBITE,
+Pokemon = BOUNSWEET,14
+    Moves = RAZORLEAF,RAPIDSPIN,SWEETSCENT,
+#-------------------------------
+[CAMARERO,Antonio]
+LoseText = ¡Me habéis liao y se me han quemao las croquetas!
+Pokemon = SHUCKLE,14
+    Moves = BIDE,ROLLOUT,STRUGGLEBUG,
+Pokemon = MAGBY,13
+    Moves = SMOG,EMBER,LEER,
+Pokemon = MILTANK,14
+    Moves = TACKLE,GROWL,ROLLOUT,MILKDRINK
+#-------------------------------
+[MECANICO,Antonio]
+LoseText = ¡Vaya pinchazo!
+Pokemon = TIMBURR,14
+    Moves = POUND,LOWKICK,ROCKTHROW,FOCUSENERGY
+Pokemon = ROGGENROLA,13
+    Moves = TACKLE,HARDEN,SANDATTACK,HEADBUTT
+Pokemon = MACHOP,14
+    Moves = LOWKICK,LEER,FOCUSENERGY,KARATECHOP
 

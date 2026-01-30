@@ -404,5 +404,17 @@ VictoryBGM = Battle victory leader
 Name = Camarero
 Gender = Male
 BaseMoney = 400
-
+SkillLevel = 100
+IntroBGM = BW 125 Trainers_ Eyes Meet (Youngster)
+BattleBGM = BW 126 Battle! (Trainer Battle)
+VictoryBGM = BW 127 Victory! (Trainer Battle)
+#-------------------------------
+[MECANICO]
+Name = Mecanico
+Gender = Male
+BaseMoney = 400
+SkillLevel = 100
+IntroBGM = BW 125 Trainers_ Eyes Meet (Youngster)
+BattleBGM = BW 126 Battle! (Trainer Battle)
+VictoryBGM = BW 127 Victory! (Trainer Battle)
 
